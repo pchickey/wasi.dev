@@ -1,4 +1,4 @@
-remote_theme: tschneidereit/type-theme
+#remote_theme: tschneidereit/type-theme
 plugins:
   - jekyll-include-cache
 
