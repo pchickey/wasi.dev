@@ -1,6 +1,7 @@
 #remote_theme: tschneidereit/type-theme
 plugins:
   - jekyll-include-cache
+  - jekyll-wit
 
 theme_settings:
   github: bytecodealliance/wasi.dev
@@ -8,3 +9,5 @@ theme_settings:
 
 exclude:
   - Gemfile
+  - Gemfile.lock
+  - jekyll-wit

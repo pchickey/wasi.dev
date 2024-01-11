@@ -1,3 +1,9 @@
+PATH
+  remote: jekyll-wit
+  specs:
+    jekyll-wit (0.0.1)
+      jekyll (~> 3.9.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -269,6 +275,7 @@ DEPENDENCIES
   http_parser.rb (~> 0.6.0)
   jekyll (~> 3.9.3)
   jekyll-include-cache (~> 0.2.1)
+  jekyll-wit!
   minima (~> 2.5)
   tzinfo (>= 1, < 3)
   tzinfo-data

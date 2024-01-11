@@ -18,6 +18,7 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "jekyll-include-cache", "~> 0.2.1"
   gem "github-pages", "~> 228"
+  gem "jekyll-wit", :path => "./jekyll-wit"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
